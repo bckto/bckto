@@ -6,7 +6,7 @@ After graduating as a structural architect, I found my true calling as a develop
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brenda-cecato/)
 - 🌱 I’m currently learning Dutch and UX/UI
-- 🔭 I’m currently working on a [Productivity tracker](https://github.com/bckto/typescript-practice)
+- 🔭 I’m currently working on a [Productivity tracker](https://github.com/bckto/productivity-tracker)
 - ⚡ Fun fact: I was born in Brazil, grew up in Panama and later on moved to the Netherlands.
 
 ## :wrench: Languages & tools I have used:
