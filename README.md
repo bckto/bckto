@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=F9876F&height=150&section=header&text=Hello%20World!%20I'm%20Brenda.&fontSize=30&fontAlignY=25&fontColor=fff&animation=fadeIn)
 ## :mortar_board: About me
 After graduating as a structural architect, I found my true calling as a developer.:blush:   
-- :eyes: I'm currently looking for a job as a Jr. Frontend developer.  
 - 😄 Pronouns: She/Her
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brenda-cecato/)
